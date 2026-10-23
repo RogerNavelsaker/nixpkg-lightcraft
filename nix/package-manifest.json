@@ -17,7 +17,7 @@
     "name": "lightcraft"
   },
   "meta": {
-    "description": "Lightcraft, an open-source creative app from the ArtCraft Craft app suite",
+    "description": "LightCraft, an open-source creative app from the ArtCraft Craft app suite",
     "homepage": "https://github.com/storytold/lightcraft",
     "licenseSpdx": "MIT OR Apache-2.0"
   }
